@@ -17,6 +17,7 @@
   "keywords": [],
   "dependencies": {
     "@choojs/findup": "^0.2.0",
+    "@ind.ie/https-server": "^2.0.0",
     "ansi-diff": "^1.0.10",
     "ansi-escape-sequences": "^4.0.0",
     "ansi-scrollbox": "^0.2.0",
